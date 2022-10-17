@@ -1,0 +1,89 @@
+{
+  "rowSeperator": "\r\n",
+  "columnSeperator": ",",
+  "HasHeaderRow": true,
+  "HasTitleRow": false,
+  "columns": {
+    "1": {
+      "name": "Order Key",
+      "isRequired": false,
+      "isUnique": false
+    },
+    "2": {
+      "name": "SKU",
+      "isRequired": false
+    },
+    "3": {
+      "name": "Product Name",
+      "isRequired": false
+    },
+    "4": {
+      "name": "Quantity",
+      "isRequired": false
+    },
+    "5": {
+      "name": "Shipping Service",
+      "isRequired": false
+    },
+    "6": {
+      "name": "shipper_account_number",
+      "isRequired": false
+    },
+    "7": {
+      "name": "Ship To Name",
+      "isRequired": false
+    },
+    "8": {
+      "name": "Ship To Company",
+      "isRequired": false
+    },
+    "9": {
+      "name": "Ship to Address 1",
+      "isRequired": false
+    },
+    "10": {
+      "name": "Ship To Address 2",
+      "isRequired": false
+    },
+    "11": {
+      "name": "Ship To Address 3",
+      "isRequired": false
+    },
+    "12": {
+      "name": "Ship To City",
+      "isRequired": false
+    },
+    "13": {
+      "name": "Ship To State",
+      "isRequired": false
+    },
+    "14": {
+      "name": "Ship To Postal Code",
+      "isRequired": false
+    },
+    "15": {
+      "name": "Ship To Country",
+      "isRequired": false
+    },
+    "16": {
+      "name": "Ship To Telephone",
+      "isRequired": false
+    },
+    "17": {
+      "name": "User Email",
+      "isRequired": false
+    },
+    "18": {
+      "name": "PO Number",
+      "isRequired": false
+    },
+    "19": {
+      "name": "Project name",
+      "isRequired": false
+    },
+    "20": {
+      "name": "custom_02",
+      "isRequired": false
+    }
+  }
+}
